@@ -1,6 +1,6 @@
 
 
-![imagem](https://i.imgur.com/mbdq8P5.png)
+![Imgur](https://i.imgur.com/uIJxZZj.png)
 
 Sou um Cientista de dados em formação , buscando dados, limpando, manipulando, analisando os dados. Criando modelos de Machine Learning supervisionado (regressão e classificação)e não supervisionado(clusterização)overfitting e underfitting, conjuntos de treino/validação/teste e validação cruzada. Com dados estruturado e não estruturados. Deploy e storytelling dos projetos . Estudando sempre em evolução.
 
