@@ -14,7 +14,7 @@ Conheça mais sobre os meus projetos, publicações na área de dados.
 * Meu canal no [YouTube](https://www.youtube.com/channel/UCdpeqZIZ1JGZk2PywYTcQdw)
 
 
-#  Prediction_Diabetes_SVM
+#  <font color='yellow'>Prediction_Diabetes_SVM
 Ent to End diabetes prediction project, Classification algorithm using SVM
 
 Repositório para o projeto de calculadora de aluguel da turma de novembro de Data Science da Awari!
