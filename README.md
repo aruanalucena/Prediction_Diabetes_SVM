@@ -16,6 +16,7 @@ Conheça mais sobre os meus projetos, publicações na área de dados.
 
 #  <font color='yellow'>Prediction_Diabetes_SVM
 Ent to End diabetes prediction project, Classification algorithm using SVM
+ ![Imgur](https://i.imgur.com/GKedflL.jpg)
 
 Repositório para o projeto de calculadora de aluguel da turma de novembro de Data Science da Awari!
  # Etapas
